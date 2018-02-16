@@ -1,10 +1,3 @@
-#!/usr/bin/env python3
-# -*- coding: utf-8 -*-
-"""
-Created on Fri Feb 16 17:58:45 2018
-
-@author: dell
-"""
 
 #importing libraries
 
